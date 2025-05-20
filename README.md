@@ -124,7 +124,7 @@ python -m unittest discover tests
 
 ## Author
 
-**Your Name**
+**George**
 [GitHub](https://github.com/George-Dev-Web)
 
 ---
